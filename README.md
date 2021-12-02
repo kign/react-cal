@@ -1,2 +1,7 @@
-# react-cal
-Simple calendar/todo list in ReactJS
+# Simple calendar/todo list in ReactJS
+
+Live demo
+
+
+
+

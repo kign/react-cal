@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+td.today {
+  color: blue;
+  font-weight: bold;
+}
+
+td.other {
+  filter: opacity(30%);
+}
+
+td.selected {
+  border: 1px solid red;
+}
+
+td.past {
+  color: red;
+  font-weight: bold;
+}
+
+td.future {
+  font-weight: bold;
+}
