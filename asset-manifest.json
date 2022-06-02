@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-cal/static/css/main.2a7ea659.chunk.css",
-    "main.js": "/react-cal/static/js/main.02bab306.chunk.js",
-    "main.js.map": "/react-cal/static/js/main.02bab306.chunk.js.map",
-    "runtime-main.js": "/react-cal/static/js/runtime-main.8c5c85e2.js",
-    "runtime-main.js.map": "/react-cal/static/js/runtime-main.8c5c85e2.js.map",
-    "static/js/2.e8c26d39.chunk.js": "/react-cal/static/js/2.e8c26d39.chunk.js",
-    "static/js/2.e8c26d39.chunk.js.map": "/react-cal/static/js/2.e8c26d39.chunk.js.map",
+    "main.css": "/react-cal/static/css/main.dca28e03.chunk.css",
+    "main.js": "/react-cal/static/js/main.c61a0ec2.chunk.js",
+    "main.js.map": "/react-cal/static/js/main.c61a0ec2.chunk.js.map",
+    "runtime-main.js": "/react-cal/static/js/runtime-main.38a33ee8.js",
+    "runtime-main.js.map": "/react-cal/static/js/runtime-main.38a33ee8.js.map",
+    "static/js/2.538edc81.chunk.js": "/react-cal/static/js/2.538edc81.chunk.js",
+    "static/js/2.538edc81.chunk.js.map": "/react-cal/static/js/2.538edc81.chunk.js.map",
     "index.html": "/react-cal/index.html",
-    "static/css/main.2a7ea659.chunk.css.map": "/react-cal/static/css/main.2a7ea659.chunk.css.map",
-    "static/js/2.e8c26d39.chunk.js.LICENSE.txt": "/react-cal/static/js/2.e8c26d39.chunk.js.LICENSE.txt"
+    "static/css/main.dca28e03.chunk.css.map": "/react-cal/static/css/main.dca28e03.chunk.css.map",
+    "static/js/2.538edc81.chunk.js.LICENSE.txt": "/react-cal/static/js/2.538edc81.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c5c85e2.js",
-    "static/js/2.e8c26d39.chunk.js",
-    "static/css/main.2a7ea659.chunk.css",
-    "static/js/main.02bab306.chunk.js"
+    "static/js/runtime-main.38a33ee8.js",
+    "static/js/2.538edc81.chunk.js",
+    "static/css/main.dca28e03.chunk.css",
+    "static/js/main.c61a0ec2.chunk.js"
   ]
 }
